@@ -9,6 +9,7 @@ public class Sharp {
 		int b=15;
 		int c;
 		c=a+b;
+		System.out.println(c);
 			
 		
 		
